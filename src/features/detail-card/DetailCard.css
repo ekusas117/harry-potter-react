@@ -1,0 +1,20 @@
+.card-description{
+    display: flex;
+    flex-direction: column;
+}
+
+.Gryffindor{
+    color: red;
+}
+
+.Slytherin{
+    color: green;
+}
+
+.Hufflepuff{
+    color: #75751d;
+}
+
+.Ravenclaw{
+    color: blue;
+}

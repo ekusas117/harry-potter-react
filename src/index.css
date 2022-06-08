@@ -1,0 +1,17 @@
+@font-face {
+  font-family: HarryP;
+  src: url('../public/HARRYP__.TTF');
+}
+
+body {
+  margin: 0;
+  font-family: HarryP;
+  font-size: 20px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

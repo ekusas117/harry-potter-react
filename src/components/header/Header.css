@@ -1,0 +1,9 @@
+header{
+    position: sticky;
+    top: 0;
+    background-color: #16181d;
+}
+
+.header-image{
+    filter: invert(100%)
+}

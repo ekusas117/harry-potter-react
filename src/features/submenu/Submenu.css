@@ -1,0 +1,24 @@
+.submenu{
+    flex: 20;
+    position: sticky;
+    top: 79px;
+    align-self: flex-start;
+    height: calc(100vh - 80px);
+    background-color: #20232a;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.link{
+    color: white;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: #61dafb;
+}
